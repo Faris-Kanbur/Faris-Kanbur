@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Faris-Kanbur&show_icons=true&theme=tokyonight" align='right' width="55%">
 
 
-## Hi there 👋
+## Hi there I am Faris👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Faris-Kanbur" alt="Faris-Kanbur" /> </p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faris-kanbur-9267b7140/)
